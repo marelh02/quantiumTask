@@ -22,3 +22,10 @@ h1{
 	color: rgb(88, 15, 110);
 	text-align: center;
 }
+
+#radio
+{
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	color: rgb(88, 15, 110);
+}
